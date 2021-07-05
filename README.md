@@ -7,6 +7,7 @@
 <a href="https://www.linkedin.com/in/ajay-jangid-69b99a198">
   <img align="left" alt="Ajay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=ajayjangid17.ajayjangid17)
 
 <br />
