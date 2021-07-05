@@ -10,10 +10,10 @@
   <img align="left" alt="Ajay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/ajay.sharma178/">
-  <img align="left" alt="Ajay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
+  <img align="left" alt="Ajay's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
 </a>
 
-
+<br />
 
 - 👔 I’m a Backend Developer at @tradebrains working on various layers of Fintech products.
 - 🌱 I’m currently learning reactjs and javascript (Frontend Technologies)
