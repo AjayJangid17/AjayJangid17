@@ -15,7 +15,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ajayjangid17.ajayjangid17)
 
 <br />
-
+📈 my github stats
 <img src="https://github-readme-stats.vercel.app/api?username=ajayjangid17&show_icons=true&theme=dark" alt="ajayjangid" align="right" width="50%" />
 
 - 👔 I’m a Backend Developer at @tradebrains working on various layers of Fintech products.
@@ -52,9 +52,9 @@
 
 ---
 
-📈 my github stats
+<!-- 📈 my github stats -->
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ajayjangid17&show_icons=true&theme=dark" alt="ajayjangid" />
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ajayjangid17&show_icons=true&theme=dark" alt="ajayjangid" /> -->
  
 
 <!---
