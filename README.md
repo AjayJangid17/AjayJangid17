@@ -14,7 +14,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ajayjangid17.ajayjangid17)
 
-<br />
 
 <img src="https://github-readme-stats.vercel.app/api?username=ajayjangid17&show_icons=true&theme=dark" alt="ajayjangid" align="right" width="50%" />
 
