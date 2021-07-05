@@ -1,7 +1,5 @@
 ### Hi there, I'm Ajay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
  
-[Portfolio](https://ajayjangidresume.netlify.app/)  
   
 <a href="https://discord.gg/A.J#7064">
   <img align="left" alt="Ajay's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -18,6 +16,10 @@
 - ✍️ I actively Write blog on my website [Developer Stacks](https://developerstacks.com/) and Create Programming content on instagram [developerstacks](https://www.instagram.com/developerstacks/) 
 - In my free time, I enjoy exploring different domains of computer science.
 - See you somewhere in the world 🌎
+
+<br />
+
+[Portfolio](https://ajayjangidresume.netlify.app/) 
 
 <br />
 
