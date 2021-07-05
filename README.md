@@ -1,5 +1,6 @@
-### Hi there, I'm Ajay [Linkedin][linkedin] 👋
+### Hi there, I'm Ajay 👋
 
+[Linkedin][linkedin]
 [![Portfolio]](https://ajayjangidresume.netlify.app/)
 [![Instagram Follow]](https://www.instagram.com/ajay.sharma178/)
 
