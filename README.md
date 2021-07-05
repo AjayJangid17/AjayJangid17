@@ -11,7 +11,7 @@
 - 📫 How to reach me [Linkedin][linkedin] or ajayjangid1708@gmail.com
 - ✍️ I actively Write blog on my website [Developer Stacks](https://developerstacks.com/) and Create Programming content on instagram [developerstacks](https://www.instagram.com/developerstacks/) 
 - In my free time, I enjoy exploring different domains of computer science.
-- See you somewhere in the world earth_asia
+- See you somewhere in the world 🌎
 
 
 
