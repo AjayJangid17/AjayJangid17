@@ -12,7 +12,6 @@
 
 <br />
 
-
 - 👔 I’m a Backend Developer at @tradebrains working on various layers of Fintech products.
 - 🌱 I’m currently learning reactjs and javascript (Frontend Technologies)
 - 📫 How to reach me [Linkedin][linkedin] or [Portfolio](https://ajayjangidresume.netlify.app/) 
