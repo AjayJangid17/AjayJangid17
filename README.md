@@ -8,7 +8,9 @@
   <img align="left" alt="Ajay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+
 <br />
+
 
 - 👔 I’m a Backend Developer at @tradebrains working on various layers of Fintech products.
 - 🌱 I’m currently learning reactjs and javascript (Frontend Technologies)
