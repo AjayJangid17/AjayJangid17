@@ -49,6 +49,10 @@
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ajayjangid17&show_icons=true&theme=dark" alt="ajayjangid" />
+ 
+ ---
+ 
+ [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
 <!---
 AjayJangid17/AjayJangid17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
