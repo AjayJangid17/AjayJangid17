@@ -1,8 +1,17 @@
 ### Hi there, I'm Ajay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[Linkedin][linkedin]  
+ 
 [Portfolio](https://ajayjangidresume.netlify.app/)  
-[Instagram](https://www.instagram.com/ajay.sharma178/)  
+  
+<a href="https://discord.gg/A.J#7064">
+  <img align="left" alt="Ajay's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="[linkedin]">
+  <img align="left" alt="Ajay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/ajay.sharma178/">
+  <img align="left" alt="Ajay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
+</a>
 
 
 
