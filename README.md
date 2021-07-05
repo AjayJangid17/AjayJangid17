@@ -15,14 +15,10 @@
 
 - 👔 I’m a Backend Developer at @tradebrains working on various layers of Fintech products.
 - 🌱 I’m currently learning reactjs and javascript (Frontend Technologies)
-- 📫 How to reach me [Linkedin][linkedin] or ajayjangid1708@gmail.com
+- 📫 How to reach me [Linkedin][linkedin] or [Portfolio](https://ajayjangidresume.netlify.app/) 
 - ✍️ I actively Write blog on my website [Developer Stacks](https://developerstacks.com/) and Create Programming content on instagram [developerstacks](https://www.instagram.com/developerstacks/) 
 - In my free time, I enjoy exploring different domains of computer science.
 - See you somewhere in the world 🌎
-
-<br />
-
-[Portfolio](https://ajayjangidresume.netlify.app/) 
 
 <br />
 
