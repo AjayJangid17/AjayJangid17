@@ -48,6 +48,7 @@ I’m a **Backend Developer** at [TradeBrains](https://portal.tradebrains.in/) w
 - [How Django Works?](https://developerstacks.com/post/how-django-works/)
 - [Django Request-Response Cycle?](https://developerstacks.com/post/django-request-response-cycle/)
 - [How slow is Python's string concatenation vs join?](https://developerstacks.com/post/how-slow-is-pythons-string-concatenation-vs-join/)
+- [How does react works?](https://developerstacks.com/post/how-does-react-works/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://developerstacks.com/)
