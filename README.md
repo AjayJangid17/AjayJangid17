@@ -17,8 +17,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Great+Software+Starts+With+Great+Teams;I+Speak+Fluent+Python,+SQL+&+Coffee.)](https://git.io/typing-svg)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=ajayjangid17&show_icons=true&theme=dark" alt="ajayjangid" align="right" width="50%" />
-
 I'm a **Senior Software Engineer** with hands-on experience across the full stack, cloud, and data engineering — building scalable products end to end.
 
 - 🔭 Expertise **Python (Django,FastAPI)** and **React** to build full-stack applications, backed by **Azure** cloud services and **Databricks** for data engineering.
