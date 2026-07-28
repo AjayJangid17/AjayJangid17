@@ -21,8 +21,8 @@ I'm a **Senior Software Engineer** with hands-on experience across the full stac
 
 - 🔭 I work with **Python (FastAPI)**, **React** on the frontend, and **Azure** cloud services, along with **Databricks** on the data engineering side.
 - 🌱 I'm currently diving deep into **Generative AI** and **Agentic AI**, building hands-on projects to sharpen my skills.
-- 📫 How to reach me: [LinkedIn][linkedin] or [Portfolio](https://ajayjangidresume.netlify.app/)
-- ✍️ I actively write blogs on my website [Developer Stacks](https://developerstacks.com/) and create programming content on Instagram [developerstacks](https://www.instagram.com/developerstacks/)
+- 📫 How to reach me: [LinkedIn][linkedin]
+- ✍️ I actively write blogs on my website [Developer Stacks] and create programming content on Instagram [developerstacks](https://www.instagram.com/developerstacks/)
 - ⚡ In my free time, I enjoy exploring different domains of computer science.
 - See you somewhere in the world 🌎
 
