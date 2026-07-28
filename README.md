@@ -16,6 +16,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Great+Software+Starts+With+Great+Teams;I+Speak+Fluent+Python,+SQL+&+Coffee.)](https://git.io/typing-svg)
 
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 
 I'm a **Senior Software Engineer** with hands-on experience across the full stack, cloud, and data engineering — building scalable products end to end.
 
