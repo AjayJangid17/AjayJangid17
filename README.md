@@ -17,13 +17,13 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ajayjangid17&show_icons=true&theme=dark" alt="ajayjangid" align="right" width="50%" />
 
-I’m a **Senior Software Engineer** at [Ernst & Young](https://www.ey.com/en_in) working on various layers of Finance products.
+I'm a **Senior Software Engineer** with hands-on experience across the full stack, cloud, and data engineering — building scalable products end to end.
 
-- 🌱 I’m currently learning reactjs and javascript (Frontend Technologies)
-- 📫 How to reach me [Linkedin][linkedin] or [Portfolio](https://ajayjangidresume.netlify.app/) 
-- ✍️ I actively Write blog on my website [Developer Stacks](https://developerstacks.com/) and Create Programming content on instagram [developerstacks](https://www.instagram.com/developerstacks/) 
-- In my free time, I enjoy exploring different   
-  domains of computer science.
+- 🔭 I work with **Python (FastAPI)**, **React** on the frontend, and **Azure** cloud services, along with **Databricks** on the data engineering side.
+- 🌱 I'm currently diving deep into **Generative AI** and **Agentic AI**, building hands-on projects to sharpen my skills.
+- 📫 How to reach me: [LinkedIn][linkedin] or [Portfolio](https://ajayjangidresume.netlify.app/)
+- ✍️ I actively write blogs on my website [Developer Stacks](https://developerstacks.com/) and create programming content on Instagram [developerstacks](https://www.instagram.com/developerstacks/)
+- ⚡ In my free time, I enjoy exploring different domains of computer science.
 - See you somewhere in the world 🌎
 
 ---
