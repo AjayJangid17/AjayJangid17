@@ -14,15 +14,18 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ajayjangid17.ajayjangid17)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=ajayjangid17&show_icons=true&theme=dark" alt="ajayjangid" align="right" width="50%" />
 
 I'm a **Senior Software Engineer** with hands-on experience across the full stack, cloud, and data engineering — building scalable products end to end.
 
-- 🔭 I work with **Python (Django,FastAPI)**, **React** on the frontend, and **Azure** cloud services, along with **Databricks** on the data engineering side.
+- 🔭 Expertise **Python (Django,FastAPI)** and **React** to build full-stack applications, backed by **Azure** cloud services and **Databricks** for data engineering.
+- ☁️ On Azure, I've worked with **Azure Functions**, **Key Vault**, **Queue Storage**, and **Container Apps**, applying **microservices architecture** and **spec-driven development**.
 - 🌱 I'm currently diving deep into **Generative AI** and **Agentic AI**, building hands-on projects to sharpen my skills.
 - 📫 How to reach me: [LinkedIn][linkedin]
-- ✍️ I actively write blogs on my website [Developer Stacks] and create programming content on Instagram [developerstacks](https://www.instagram.com/developerstacks/)
+- ✍️ I actively write blogs and create programming content on Instagram [developerstacks](https://www.instagram.com/developerstacks/)
 - ⚡ In my free time, I enjoy exploring different domains of computer science.
 - See you somewhere in the world 🌎
 
