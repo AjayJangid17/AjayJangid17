@@ -19,7 +19,7 @@
 
 I'm a **Senior Software Engineer** with hands-on experience across the full stack, cloud, and data engineering — building scalable products end to end.
 
-- 🔭 Expertise **Python (Django,FastAPI)** and **React** to build full-stack applications, backed by **Azure** cloud services and **Databricks** for data engineering.
+- 🔭 Expertise into **Python (Django,FastAPI)** and **React** to build full-stack applications, backed by **Azure** cloud services and **Databricks** for data engineering.
 - ☁️ On Azure, I've worked with **Azure Functions**, **Key Vault**, **Queue Storage**, and **Container Apps**, applying **microservices architecture** and **spec-driven development**.
 - 🌱 I'm currently diving deep into **Generative AI** and **Agentic AI**, building hands-on projects to sharpen my skills.
 - 📫 How to reach me: [LinkedIn][linkedin]
