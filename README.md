@@ -16,8 +16,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Great+Software+Starts+With+Great+Teams;I+Speak+Fluent+Python,+SQL+&+Coffee.)](https://git.io/typing-svg)
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
-
 I'm a **Senior Software Engineer** with hands-on experience across the full stack, cloud, and data engineering — building scalable products end to end.
 
 - 🔭 Expertise into **Python (Django,FastAPI)** and **React** to build full-stack applications, backed by **Azure** cloud services and **Databricks** for data engineering.
@@ -56,6 +54,8 @@ I'm a **Senior Software Engineer** with hands-on experience across the full stac
 ➡️ [more blog posts...](https://developerstacks.com/)
 
 ---
+
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
 
 <!-- 📈 my github stats -->
 
