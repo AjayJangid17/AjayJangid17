@@ -19,7 +19,7 @@
 
 I'm a **Senior Software Engineer** with hands-on experience across the full stack, cloud, and data engineering — building scalable products end to end.
 
-- 🔭 I work with **Python (FastAPI)**, **React** on the frontend, and **Azure** cloud services, along with **Databricks** on the data engineering side.
+- 🔭 I work with **Python (Django,FastAPI)**, **React** on the frontend, and **Azure** cloud services, along with **Databricks** on the data engineering side.
 - 🌱 I'm currently diving deep into **Generative AI** and **Agentic AI**, building hands-on projects to sharpen my skills.
 - 📫 How to reach me: [LinkedIn][linkedin]
 - ✍️ I actively write blogs on my website [Developer Stacks] and create programming content on Instagram [developerstacks](https://www.instagram.com/developerstacks/)
